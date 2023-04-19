@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ajmal-07/Random-Quote-/static/css/main.1b259eed.css",
+    "main.js": "/Ajmal-07/Random-Quote-/static/js/main.1d3767d7.js",
+    "index.html": "/Ajmal-07/Random-Quote-/index.html",
+    "main.1b259eed.css.map": "/Ajmal-07/Random-Quote-/static/css/main.1b259eed.css.map",
+    "main.1d3767d7.js.map": "/Ajmal-07/Random-Quote-/static/js/main.1d3767d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b259eed.css",
+    "static/js/main.1d3767d7.js"
+  ]
+}
